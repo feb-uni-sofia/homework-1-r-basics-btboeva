@@ -25,4 +25,5 @@ seq(7, 21, by = 1)
 7:21
 
 # h)
+## Note that by = 1 is the default
 length(seq(7, 21, by = 1))
